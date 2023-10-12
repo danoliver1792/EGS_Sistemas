@@ -1,0 +1,14 @@
+C:\Users\danrl\OneDrive\Empresas\EGS Sistemas\testes\BlackFriday\BlackFriday\bin\Debug\net6.0\BlackFriday.exe
+C:\Users\danrl\OneDrive\Empresas\EGS Sistemas\testes\BlackFriday\BlackFriday\bin\Debug\net6.0\BlackFriday.deps.json
+C:\Users\danrl\OneDrive\Empresas\EGS Sistemas\testes\BlackFriday\BlackFriday\bin\Debug\net6.0\BlackFriday.runtimeconfig.json
+C:\Users\danrl\OneDrive\Empresas\EGS Sistemas\testes\BlackFriday\BlackFriday\bin\Debug\net6.0\BlackFriday.dll
+C:\Users\danrl\OneDrive\Empresas\EGS Sistemas\testes\BlackFriday\BlackFriday\bin\Debug\net6.0\BlackFriday.pdb
+C:\Users\danrl\OneDrive\Empresas\EGS Sistemas\testes\BlackFriday\BlackFriday\obj\Debug\net6.0\BlackFriday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danrl\OneDrive\Empresas\EGS Sistemas\testes\BlackFriday\BlackFriday\obj\Debug\net6.0\BlackFriday.AssemblyInfoInputs.cache
+C:\Users\danrl\OneDrive\Empresas\EGS Sistemas\testes\BlackFriday\BlackFriday\obj\Debug\net6.0\BlackFriday.AssemblyInfo.cs
+C:\Users\danrl\OneDrive\Empresas\EGS Sistemas\testes\BlackFriday\BlackFriday\obj\Debug\net6.0\BlackFriday.csproj.CoreCompileInputs.cache
+C:\Users\danrl\OneDrive\Empresas\EGS Sistemas\testes\BlackFriday\BlackFriday\obj\Debug\net6.0\BlackFriday.dll
+C:\Users\danrl\OneDrive\Empresas\EGS Sistemas\testes\BlackFriday\BlackFriday\obj\Debug\net6.0\refint\BlackFriday.dll
+C:\Users\danrl\OneDrive\Empresas\EGS Sistemas\testes\BlackFriday\BlackFriday\obj\Debug\net6.0\BlackFriday.pdb
+C:\Users\danrl\OneDrive\Empresas\EGS Sistemas\testes\BlackFriday\BlackFriday\obj\Debug\net6.0\BlackFriday.genruntimeconfig.cache
+C:\Users\danrl\OneDrive\Empresas\EGS Sistemas\testes\BlackFriday\BlackFriday\obj\Debug\net6.0\ref\BlackFriday.dll
